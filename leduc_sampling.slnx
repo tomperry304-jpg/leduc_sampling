@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="leduc_sampling/leduc_sampling.vcxproj" Id="4e594052-8eed-4849-97db-012401f23654" />
+</Solution>
